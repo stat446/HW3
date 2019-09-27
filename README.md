@@ -1,7 +1,7 @@
 # HW3
 
 #### 1. (4 points)
-\emph{From Lohr Exercise 2.10} Which of the following SRS designs will give the most precision (smallest variance) for estimating the population mean? Assume that each population has the same value of the population variance $S^2$. Please report the variance of the estimator for each scenario as a function of $S^2$ and then state which is the smallest.
+_From Lohr Exercise 2.10_ Which of the following SRS designs will give the most precision (smallest variance) for estimating the population mean? Assume that each population has the same value of the population variance $S^2$. Please report the variance of the estimator for each scenario as a function of $S^2$ and then state which is the smallest.
 
 1. An SRS of size 400 from a population of size 4000
 2. An SRS of size 30 from a population of size 300
