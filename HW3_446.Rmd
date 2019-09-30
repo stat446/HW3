@@ -20,7 +20,7 @@ Using the bird data set from Lab 2, a SRS sample of size 15 grid squares has bee
 ```{r}
 birds <- read.csv('http://math.montana.edu/ahoegh/teaching/stat446/birdsurvey.csv', header = T)
 set.seed(09252019)
-sample_values <- sample(birds$bird.counts, size = 20)
+sample_values <- sample(birds$bird.counts, size = 15)
 ```
 
 ##### a. (4 points)
